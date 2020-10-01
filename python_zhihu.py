@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #/usr/bin/python
+#  -*- amazing code for learning -*-
 import requests,re,json,time,os,os.path,sys
 #显示验证码
 from PIL import Image
